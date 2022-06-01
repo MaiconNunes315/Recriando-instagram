@@ -10,7 +10,7 @@ https://github.com/MaiconNunes315/netflix-clone.git
 ```
 
 
-## Github page: [Página do projeto](https://maiconnunes315.github.io/Recriando-instagram)
+## [Github page](https://maiconnunes315.github.io/Recriando-instagram)
 
 
 
