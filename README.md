@@ -6,11 +6,11 @@
   
   
 ```sh
-https://github.com/MaiconNunes315/netflix-clone.git
+https://github.com/MaiconNunes315/Recriando-instagram.git
 ```
 
 
-## [Github page](https://maiconnunes315.github.io/Recriando-instagram)
+## [cloneinstagram.com](https://maiconnunes315.github.io/Recriando-instagram)
 
 
 
